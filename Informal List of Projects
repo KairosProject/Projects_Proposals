@@ -150,3 +150,12 @@ Simple: vieni pagato per testare app e trovare bugs, anche utiler per early adop
 ### marketplace di saving/investment accounts.
 Questi berlinesi lo hanno fatto per investimenti tradizionali e gli hanno dato 60 milioni di investimenti
 e stanno gestendo 100k clienti e 4 miliardi  https://www.raisin.com/
+
+### Un antivirus per pagine web che funziona come un sito proxy.
+In pratica avete presente che ogni tanto ci sono quei proxy tipo cloudflaire contro i DDOS?
+sarebbe un proxy del genere, che gira a livello di dns e scanna il sito prima che l'utente lo visita in cerca di malware,
+injections, etc
+
+### ledger con schermo e nano sim che funziona indipendentemente da wallet mobile
+
+### Un servizio dove tu ci paghi in BTC e noi facciamo un bonifico iban per te
