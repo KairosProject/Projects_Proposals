@@ -163,3 +163,12 @@ injections, etc
 ### un sevizio simil betting dove uno registra su chain le proprie crypto price-predictions..
 caricandoci la scommessa come fee..
 e poi chi s'avvicina vince il malloppo splitted, a mo di schedina totocalcio..
+
+### Simple Craiglist/Ebay Decentralised
+MVP:
+-annuncio con descrizione, prezzo, photo
+-pubblicazione metadati su ipfs e hash del json metadati su smart contract
+-buy function
+Development after prize:
+-KYC with neo id
+-Rating with ontology
