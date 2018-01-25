@@ -172,3 +172,10 @@ MVP:
 Development after prize:
 -KYC with neo id
 -Rating with ontology
+
+### verifiche trigger custom manuale as a service
+Ad esempio, nel famoso testamento, bisogna verificare che una persona sia morta.
+Oppure verificare fonti dalle news;
+Si potrebbe dare un reward per verificare che le condizioni "custom" stabilite sullo smartcontract
+si siano davvero verificate o addirittura offrire questa cosa qua come servizio.
+
