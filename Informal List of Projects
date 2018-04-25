@@ -1,183 +1,109 @@
-### Code Repository
-A kind of Gitbuh but decentralised. Rewards based on commits.
+This list is a notepad of ideas coming from brainstorming and informal conversations.
+The sole purptose of this notepad is to save ideas for future discussions and do not represent any involvment or commitment of dexlab towards any of the content below.
 
-###Security Cameras 
-Use case: you can install security cameras in a kindergarten but no-one can access the footage unless
-51% of parents give the consent to do it. It would solve the privacy vs security issue.
-
-###Plugin as Coinpayments
-But open, as with myetherwallet, you can add custom token just defining name, address and decimals
-
-###Call-Center / Customer-Care on demand
-Uber economy; Decentralised customer care on demand.
-It would be also possible to create services for marketplaces (i.e. themeforest) where support is based on some reward system
-
-###Products Warranty / delivery tracking / dropshipping infrastructure
-bill/warranty/tracking on the blockchain (QRcode)
-You could also make automated order  fulfillment with smart-contracts for dropshipping services
-
-###Turnover
-Shifts system. I.e. a Netflix licens give me the right to use up to 4 devices but we could pay it in 20 people and use it
-according to a shared calendar.
-
-###Easy Mobile Investments
+### Easy One Click Mobile Investments
 Every day we send users a push notification e they can decide whether to invest 10, 20, 50 o 100 $ in just a click.
 It’s in between betting and investing: instead of betting on Lotto or football, users can quick invest on crypto
 
-###Satellites as a service
+### Plugin for online payments
+You can add custom token just defining name, address and decimals.
+
+### Call-Center / Customer-Care on demand
+Uber economy; Decentralised customer care on demand.
+It would be also possible to create services for marketplaces (i.e. themeforest) where support is based on some reward system
+
+### Products Warranty / delivery tracking / dropshipping infrastructure
+bill/warranty/tracking on the blockchain (QRcode)
+Automated order fulfillment with smart-contracts for dropshipping services
+
+### Turnover
+Shifts system. I.e. a Netflix licens give me the right to use up to 4 devices but we could pay it in 20 people and use it
+according to a shared calendar.
+
+### Satellites as a service
 Platform where users can buy services based on a satellite infrastructure.
 Various applications (i.e. security, urban planning, architecture etc)
 There’s some company that makes commercial satellites. I have a contact.
 https://vimeo.com/161656838
 
-###Coupon
+### Coupon
 Tool that allows users to easily create Smart Contracts that can be transferable, time-based e non-cumulative
 
-###Collecting points card
+### Collecting points card
 Similar to ENJIN COIN but in this case you can also collect points from supermarket, fly-miliage,
 petrol station discounts etc.)
 
-###Private Photo Album
+### Private Photo Album
 Save and privately share a beautiful, private collection of photos, videos and thoughts of your children
 that you and your family will always cherish. Same model as 23snaps but on the blockchain.
 
-###Post Mortem Message
-Wikileaks Style, you can release a message triggered by specified conditions: i.e the death of the author.
+### Post Mortem Message
+Users can release a message triggered by specified conditions: i.e the death of the author.
 
-###Package Manager Crypto
+### Package Manager Crypto
 Same model of  Mnp javascript.
 
-###E-sports Betting
+### E-sports Betting
 There’s not much to explain.
 
-###Widget con contenuti originali
-Most of online publishers today are using widget like this https://www.taboola.com/
-They give additional content and ads usually placed at the end of the main article as related or promoted.
-Usually mediocre quality of contents.
-The proposal is to create a platform for author that can create and monetise on quality content distributed through a widget
-for online newspapers, magazines and blogs.
-
-###Usage Rights Contracts
-A usage right contract is usually not so precise or expensive because it has to be written and registered by a lawyer.
-In this plaftorm authors and agencies can interact and write smart contracts where to define
+### Usage Rights Contracts
+Authors and agencies can write smart contracts where to define
 terms and condition of usage of a specific creative work.
 
-###Custom Insurance
+### Custom Insurance
 Crypto wallet are not guaranteed or insured and this usually scares most of the people
-On the go insurance i.e for silicon tits during a flight
-Insurance for your laptop in case of theft
+On the go insurance i.e for your laptop in case of theft
 
-###Scholarship / Patent
+### Scholarship / Patent
 Researchers can apply with their projects and privates investors can invest on that specific research.
 
-###Mining as business model.
-Instead of advertising or subscription for online services.
+### ICO VCs
+Funding platform for VCs, where due diligence, vesting, expenses reports are enforced by smart contracts.
 
-###ICO VCs
-Una piattaforma per ico pensata per VCs, dove due diligence, vesting, expenses reports vengono enforced dalla piattaforma.
-Tutte le ico vengono operate tramite il token della piattaforma. Con un sistema di master node fatto Vc, proof-of-diligence.
-Potrebbe essere la long term vision dell'hedge fund. Poi ci colleghiamo pure il GitHub/npm/freelancing platform.
+### Trade Union 
 
-###Basic Income
-Token legato ad un valore nel mondo reale. Utilizzo di tecniche come inflazione.
-Legare basic income a identità univoca.
-Retorica accelerazionismo: Automatizzare il lavoro e dare redditi alle persone.
+### Crypocurrency-backed decentralised email service,
+Miners run SMTP server that send/receive mails that will use a blockchain ledger.
+Encrypted, top privacy and notarized.
 
-###Trade Union (Sindacato)
-Provare a farl leva su prezzo del token o su influenza dei membri online
+### Crypto Autograph
+Like cryptokitties
 
-###Crypocurrency-backed decentralised email service,
-I miners fanno girare i server SMTP che mandano e ricevono le mail che usano come ledger la blockchain.
-Tutto cryptato, garantisce la privacy e notarizza contemporaneamente tipo PEC.
-In più hai la garanzia che non regali la tua anima a Google.
-Potrebbe partire come competitor di sendgrid ed offrire successivamente un client tipo Gmail, Enterprise level.
+### Queque
+crypto-backed: the more you pay the faster you are
 
-### una sorta di cryptokittens però basata su di un token firmato da persone famose.
-Ex: Calciatore X firma la transazione che tokenizza il suo autografo. 
-Pro: legati ad un valore percepito come reale.
-Cons: I token non si generano da soli, è difficile trovare vips.
+### Dapps marketplace
+like https://signals.network/ but for dapps
 
-### cryptogift per natale.
-c'è super hype e mi sa che vogliono partecipare un sacco di persone ma non lo sanno fare
-o magari fare gli splendidi e regalare carte con dentro ETH/BTC.
-Dovrebbe essere una cosa super easy, una pagina una persona può decidere un portafoglio, o volendo farla fissa.
-Quelle 100% btc, o eth, o  con le varie combinazioni. 
-Competitor: https://ether.cards/
+### blockchain version of https://www.setcronjob.com/
 
-### file (queque)
-per servizi come customer care solitamente l'utente viene messo in attesa. Questa fila si poterbbe fare crypto-backed
-In pratica più paghi più sei veloce.
+### token-based Trading bot as a service
 
-### ico sul marketplace di dapps
-si vendono dapps. es. sviluppatori fanno un exchanger ma non sanno come promuoverlo
-sul modello di https://signals.network/
-
-### Wallet Opensource
-perchè non c'è quasi niente veramente opensource
-
-### libreria di react
-opensource e che si interfacci con la blockchain
-
-### ATM btc / Eth / etc in mezzo alla strada che garantiscono anonimità
-
-### Una versione su blockchain di https://www.setcronjob.com/
-Utilizza il contratto di: http://www.ethereum-alarm-clock.com/
-Collegato con una dapp (nostra) tipo setcronjob, dalla quale si paga una fee.
-
-### token-based Trading bot as a service. Dove per farlo runnare ti devi comprare i nostri token.
-
-### Made in Italy Coin. Light
-Sul modello del dutchcoin fare leva su made in italy, arrogante.
-
-### Made in Italy Coin. Full
-- l'italia ha avuto un passato glorioso (romani, marinari, due sicilie)
-- la moneta del made in italy
-- certificazione su prodotti made in italy in blockchain
-- tokenizzazione del parmigiano
-- mercato più sostenibile: più soldi ai produttori
-- no investitori troppo potenti: limite max token
-- attenzione all'ambiente
-- incubatore per prodotti di qualità
-- salvare e incentivare il made in italy
-- governance: sindacato interno
-- economia interna: fondo aiuto per aziende e basic income
-
-###  Crypto based platform per beta test di app mobile
-Simple: vieni pagato per testare app e trovare bugs, anche utiler per early adopters
+###  Crypto based platform for mobile app beta testing
 
 ### Wedding Present List
 
-### marketplace di saving/investment accounts.
-Questi berlinesi lo hanno fatto per investimenti tradizionali e gli hanno dato 60 milioni di investimenti
-e stanno gestendo 100k clienti e 4 miliardi  https://www.raisin.com/
+### marketplace for saving / investment accounts
+like https://www.raisin.com/ but crypto
 
-### Un antivirus per pagine web che funziona come un sito proxy.
-In pratica avete presente che ogni tanto ci sono quei proxy tipo cloudflaire contro i DDOS?
-sarebbe un proxy del genere, che gira a livello di dns e scanna il sito prima che l'utente lo visita in cerca di malware,
-injections, etc
+### proxy site web antivirus
 
-### ledger con schermo e nano sim che funziona indipendentemente da wallet mobile
+### bank wire (IBAN) that you can pay in crypto
 
-### Un servizio dove tu ci paghi in BTC e noi facciamo un bonifico iban per te
+### crypto price-predictions betting platform
 
-### un sevizio simil betting dove uno registra su chain le proprie crypto price-predictions..
-caricandoci la scommessa come fee..
-e poi chi s'avvicina vince il malloppo splitted, a mo di schedina totocalcio..
-
-### Simple Craiglist/Ebay Decentralised
+### Decentralised Craiglist/Ebay 
 MVP:
--annuncio con descrizione, prezzo, photo
--pubblicazione metadati su ipfs e hash del json metadati su smart contract
+-metadata on ipfs and hashjson on smart contract
 -buy function
 Development after prize:
 -KYC with neo id
 -Rating with ontology
 
-### verifiche trigger custom manuale as a service
-Ad esempio, nel famoso testamento, bisogna verificare che una persona sia morta.
-Oppure verificare fonti dalle news;
-Si potrebbe dare un reward per verificare che le condizioni "custom" stabilite sullo smartcontract
-si siano davvero verificate o addirittura offrire questa cosa qua come servizio.
+### Manual custom triggers verification as a service
 
-## Game Keys Crypto marketplace
-CopyCat di portali come kinguin.net/faq, allkeyshop.com etc on blockchain.
+### Digital game keys and in-game items trading platform
+
+### Security Cameras 
+Use case: you can install security cameras in a kindergarten but no-one can access the footage unless
+51% of parents give the consent to do it. It would solve the privacy vs security issue.
